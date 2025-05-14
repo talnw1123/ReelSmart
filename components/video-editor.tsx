@@ -317,8 +317,7 @@ function PromptEditingPanel({ setVideoSource }) {
                     </SelectTrigger>
                     <SelectContent>
                       <SelectItem value="basic">Basic</SelectItem>
-                      <SelectItem value="standard">Standard</SelectItem>
-                      <SelectItem value="advanced">Advanced</SelectItem>
+                      <SelectItem value="advanced">Tiktok Trend</SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
