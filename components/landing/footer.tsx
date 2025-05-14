@@ -10,7 +10,7 @@ export default function Footer() {
             <div className="flex items-center mb-4">
               <div className=" p-1 rounded mr-2 w-9 h-9 flex items-center justify-center">
                 <img
-                  src="/LOGO.png"
+                  src="https://raw.githubusercontent.com/talnw1123/ReelSmart/main/public/LOGO.png"
                   alt="ReelSmart Logo"
                   className="w-full h-full object-contain"
                 />
