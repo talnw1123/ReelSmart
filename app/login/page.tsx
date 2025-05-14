@@ -14,7 +14,7 @@ export default function LoginPage() {
         <div className="flex justify-between items-center mb-8">
           <Link href="/" className="flex items-center">
             <img
-                  src="/LOGO.png"
+                  src="https://raw.githubusercontent.com/talnw1123/ReelSmart/main/public/LOGO.png"
                   alt="ReelSmart Logo"
                   className="w-10 h-10 object-contain"
                 />
