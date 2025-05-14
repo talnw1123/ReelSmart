@@ -16,7 +16,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center">
               <div className=" p-1 rounded mr-2 w-9 h-9 flex items-center justify-center">
                 <img
-                  src="/LOGO.png"
+                  src="https://github.com/talnw1123/ReelSmart/blob/main/public/LOGO.png"
                   alt="ReelSmart Logo"
                   className="w-full h-full object-contain"
                 />
