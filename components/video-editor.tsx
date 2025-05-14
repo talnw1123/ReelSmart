@@ -148,7 +148,7 @@ export default function VideoEditor() {
           <div className="flex-1 bg-[#1a1a1a] relative">
             {isPlaying ? (
               <video
-                src="/TUNGTUNG.mp4" // ใส่ path ของวิดีโอจริงที่นี่
+                src="https://raw.githubusercontent.com/talnw1123/ReelSmart/blob/main/public/TUNGTUNG.mp4" // ใส่ path ของวิดีโอจริงที่นี่
                 className="absolute inset-0 w-full h-full object-contain"
                 autoPlay
                 style={{
@@ -157,7 +157,7 @@ export default function VideoEditor() {
               />
             ) : (
               <img
-                src={"/TUNGTUNG PIC.jpg"}
+                src={"https://raw.githubusercontent.com/talnw1123/ReelSmart/blob/main/public/TUNGTUNG%20PIC.jpg"}
                 alt="Video preview"
                 className="absolute inset-0 w-full h-full object-contain"
                 style={{
