@@ -29,19 +29,19 @@ export default function FilePanel() {
       id: 2,
       name: "No Premiere In Shot Edit",
       duration: "7:07",
-      thumbnail: "/placeholder.svg?height=100&width=150",
+      thumbnail: "https://raw.githubusercontent.com/talnw1123/ReelSmart/main/public/placeholder.svg?height=100&width=150",
     },
     {
       id: 3,
       name: "Export Mode Javi_2.mov",
       duration: "6:02",
-      thumbnail: "/placeholder.svg?height=100&width=150",
+      thumbnail: "https://raw.githubusercontent.com/talnw1123/ReelSmart/main/public/placeholder.svg?height=100&width=150",
     },
     {
       id: 4,
       name: "Edit Mode Javi_0.mov",
       duration: "9:09",
-      thumbnail: "/placeholder.svg?height=100&width=150",
+      thumbnail: "https://raw.githubusercontent.com/talnw1123/ReelSmart/main/public/placeholder.svg?height=100&width=150",
     },
   ]
 
