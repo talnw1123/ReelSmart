@@ -121,13 +121,14 @@ export default function AIPanel() {
                       <Label htmlFor="model" className="text-xs">
                         AI Model
                       </Label>
-                      <Select defaultValue="Basic">
+                       <Select defaultValue="advanced">
                         <SelectTrigger id="model" className="mt-1 bg-[#333] border-0 text-xs">
                           <SelectValue placeholder="Select model" />
                         </SelectTrigger>
                         <SelectContent>
                           <SelectItem value="basic">Basic</SelectItem>
-                          <SelectItem value="standard">Tiktok Trend</SelectItem>
+                          <SelectItem value="standard">Standard</SelectItem>
+                          <SelectItem value="advanced">Advanced</SelectItem>
                         </SelectContent>
                       </Select>
                     </div>
