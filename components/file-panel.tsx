@@ -20,9 +20,9 @@ export default function FilePanel() {
   const videoFiles: VideoFile[] = [
     {
       id: 1,
-      name: "Edit Mode Javi_1.mov",
+      name: "TUNGTUNG.jpg",
       duration: "16:03",
-      thumbnail: "/placeholder.svg?height=100&width=150",
+      thumbnail: "https://raw.githubusercontent.com/talnw1123/ReelSmart/main/public/TUNGTUNG%20PIC.jpg",
       selected: true,
     },
     {
