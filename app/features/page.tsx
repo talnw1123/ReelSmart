@@ -20,7 +20,7 @@ export default function FeaturesPage() {
         <div className="absolute inset-0 z-0 opacity-30">
           <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 mix-blend-multiply"></div>
           <img
-                  src="/LOGO.png"
+                  src="https://raw.githubusercontent.com/talnw1123/ReelSmart/main/public/LOGO.png"
                   alt="ReelSmart Logo"
                   className="w-full h-full object-contain"
                 />
